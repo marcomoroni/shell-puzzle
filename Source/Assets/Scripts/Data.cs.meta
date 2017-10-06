@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7afb0657c60eb1a40943d875658fef68
+timeCreated: 1485081356
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redPearl: {instanceID: 0}
+  - greenPearl: {instanceID: 0}
+  - purplePearl: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - winSound: {fileID: 8300000, guid: 1fcb2ab36f1dd03448fdac7104a9abb8, type: 3}
+  - audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

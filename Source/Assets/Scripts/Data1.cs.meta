@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f06a8dc23ed9a884281c3aed11ff75fb
+timeCreated: 1485081373
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pearl: {instanceID: 0}
+  - seaOrchin: {instanceID: 0}
+  - longShell: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - winSound: {fileID: 8300000, guid: 1fcb2ab36f1dd03448fdac7104a9abb8, type: 3}
+  - audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

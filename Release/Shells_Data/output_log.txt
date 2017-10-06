@@ -1,0 +1,59 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.954 seconds
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\napier-mail.napier.ac.uk\students\school of computing\user data\40213873\Shells\Release\Shells_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3200x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.330721 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.262042 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 0.166142 ms (FindLiveObjects: 0.023413 ms CreateObjectMapping: 0.012508 ms MarkObjects: 0.096542 ms  DeleteObjects: 0.032394 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.359547 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.153312 ms (FindLiveObjects: 0.023413 ms CreateObjectMapping: 0.012508 ms MarkObjects: 0.086278 ms  DeleteObjects: 0.030470 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.268457 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 0.147539 ms (FindLiveObjects: 0.023413 ms CreateObjectMapping: 0.011867 ms MarkObjects: 0.084674 ms  DeleteObjects: 0.027262 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.343830 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.161331 ms (FindLiveObjects: 0.038167 ms CreateObjectMapping: 0.011867 ms MarkObjects: 0.079542 ms  DeleteObjects: 0.031111 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.281287 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.120276 ms (FindLiveObjects: 0.018923 ms CreateObjectMapping: 0.011867 ms MarkObjects: 0.087240 ms  DeleteObjects: 0.002245 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 78c -> priority: 1 
